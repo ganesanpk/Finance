@@ -13,6 +13,9 @@
     <div class="container">
         <h1>Welcome to Financial App</h1>
     </div>
+    <div class="container">
+        <h3>GitHub Example</h3>
+    </div>
 </body>
 
 </html>
